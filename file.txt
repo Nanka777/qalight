@@ -1,0 +1,21 @@
+
+04-14 18:16:12.479 15141 15386 D HiTouch_PressGestureDetector: onAttached, package=com.pmi.qas.limited.PMIAPPM06721, windowType=1, mIsHiTouchRestricted=false
+04-14 18:16:12.489 15141 15309 D mali_winsys: EGLint new_window_surface(egl_winsys_display *, void *, EGLSurface, EGLConfig, egl_winsys_surface **, EGLBoolean) returns 0x3000
+04-14 18:16:12.529 15141 15303 I SERVICES: HTTP code: 200 Server response:
+04-14 18:16:12.529 15141 15303 I SERVICES: {"ConsumerID":"873","ExternalConsumerID":"873","ValidSessionsCount":0,"FirstLoginDate":"2023-02-24T15:28:46.960Z","LastLoginDate":null,"CCCurrent":null,"CCInit":null,"CCPred":null,"CSAvg":null,"HSBle":null,"HSInit":null,"HSManual":null,"CsRawHistory":[0,0,0,0,0],"HSBleTS":null,"HSManualTS":null,"CCCurrentTS":null,"HSDashboard":0,"CCDashboard":0,"TobaccoBase":[0,0,0,0,0],"IsTestUser":true,"DefaultLocaleCode":"EN"}
+04-14 18:16:12.545 15141 15141 W ConfigurationManager: Section = null, id = null
+04-14 18:16:12.547 15141 15141 I chatty  : uid=10551(com.gogle) identical 1 line
+04-14 18:16:12.550 15141 15141 W ConfigurationManager: Section = null, id = null
+04-14 18:16:12.572 15141 15141 V onVisiblePartOfScreen: HOME
+04-14 18:16:12.572 15141 15358 D ChargerDevice: getName :name_ID defaultChargerName:name
+04-14 18:16:12.573 15141 15141 E Qualtrics: Unable to get shared properties. Ensure the context is set
+04-14 18:16:12.573 15141 15141 I Text not found: Could not find text: HOME_ACCESSIBILITY_ROOT_TEXT_ID
+04-14 18:16:12.574 15141 15332 D ChargerDevice: getName :name_id defaultChargerName:name_id
+04-14 18:16:12.583 15141 15332 I SERVICES: Queuing request:
+04-14 18:16:12.583 15141 15332 I SERVICES: URL: https://se.qa-rrp-backend.com/content/HomePageContent
+04-14 18:16:12.583 15141 15332 I SERVICES: METHOD: POST
+04-14 18:16:12.583 15141 15332 I SERVICES: IS CONTENT DOWNLOAD: false
+04-14 18:16:12.583 15141 15332 I SERVICES: SHOULD STREAM RESPONSE: false
+04-14 18:16:12.583 15141 15332 I SERVICES: HEADERS:
+04-14 18:16:12.583 15141 15332 I SERVICES: Authorization = Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IlJIcXM1T1lVSWFWMU9WSXJ2UUpVeEhrb3NxdyIsImtpZCI6IlJIcXM1T1lVSWFWMU9WSXJ2UUpVeEhrb3NxdyJ9.eyJpc3MiOiJodHRwOi8vcG1pLnFhLXJycC1iYWNrZW5kLmNvbS9hdXRoIiwiYXVkIjoiaHR0cDovL3BtaS5xYS1ycnAtYmFja2VuZC5jb20vYXV0aC9yZXNvdXJjZXMiLCJleHAiOjE2ODE0ODg5MTMsIm5iZiI6MTY4MTQ4NTMxMywiY2xpZW50X2lkIjoidXNlci1hcGktbW9iaWxlIiwic2NvcGUiOlsib2ZmbGluZV9hY2Nlc3MiLCJwcm9maWxlIiwidXNlci1hcGkiXSwic3ViIjoiNTVjODYyYmUtN2M4Yy00OWQ3LTgxNzQtNjRiOTE3MGI3M2NmIiwiYXV0aF90aW1lIjoxNjgxNDg1MzEzLCJpZHAiOiJpZHNydiIsImMiOiI4NzMiLCJhIjoiSVFPU0NPTk5FQ1QiLCJtIjoiU0UiLCJsIjoiRU4iLCJyb2xlIjoiY29uc3VtZXIiLCJhbXIiOlsicGFzc3dvcmQiXX0.oZf3KLUUZeg70YPZmu5Lhg4rrxv_FS7GgN7uNo5l-uBBZ5dOlXtYrP_bubexOxrMLZLYaUJvl5qvmpGIOcsL1vagM_BzqF1LhuNy2dmokH6v6RCdahnYO4LqOY8JP3O5CUXsBGd83k7mseZ3xJr8jLLuCdo5Bnf0r3qUXU-GpfUfwK_P1_UZnfQHR70R13mNkKuDg_w7NiXykzjn23SOr9PmHoXQ_4XeaUjXiiyEiG_URkrYr_GmN1jGBNVwmR2c2Yiyodv4SXjAkDM5apdCe1tvUcvgi6M3HJyyCdi-G0x3i3wYdBEr6Qmfpb6rz-YMHC80X9fBy7ZofARDCcyO0g
+04-14 18:16:12.584 15141 15141 E HwViewGroupImpl: parse speed value length error

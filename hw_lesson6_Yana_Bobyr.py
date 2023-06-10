@@ -13,13 +13,13 @@ print(a)
 a[1] = 4
 print(a)
 
-a.pop()
+del a[2]
 print(a)
 
 a = a + [10, 11, 12, 13, 14]
 print(a)
 
-a = a[3:5:1]
+a = a[3:6:1]
 print(a)
 
 a[0], a[1] = a[1], a[0]
