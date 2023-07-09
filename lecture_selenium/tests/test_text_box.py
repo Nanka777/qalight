@@ -1,3 +1,5 @@
+import pytest
+
 from lecture_selenium.pages.page_text_box import PageTextBox
 
 
@@ -5,8 +7,7 @@ user_data = {'fullname': 'Vasya Pupkin',
              'email': 'pupkin@1.com',
              'curr_addr': 'My current address',
              'perm_addr': 'My perm address'}
-
-
+@pytest.mark.usefixtures('chrome')
 class TestTextBox:
 
     def test_full_name(self, chrome):
