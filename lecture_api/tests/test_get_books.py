@@ -11,8 +11,8 @@ class TestGetBooks:
         authors = None
         if status == 200:
             content = json.loads(page.get_books().content)
-            authors = set([book.get('autor') for book in content.get('books')])
-            for author in set([book.get('autor') for book in content.get('books')]):
+            authors = set([book.get('author') for book in content.get('books')])
+            for author in authors:
                 print(author)
             assert len(authors) == 8
 
